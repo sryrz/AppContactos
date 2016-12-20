@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+
+    <dimen name="margenSupApp">17dp</dimen>
+
+    <dimen name="margenTituloSup">16dp</dimen>
+    <dimen name="margenTituloInf">16dp</dimen>
+    <dimen name="margenTituloIzq">16dp</dimen>
+    <dimen name="margenTituloDch">16dp</dimen>
+
+    <dimen name="margenTituloSupConf">25dp</dimen>
+    <dimen name="margenTituloInfConf">25dp</dimen>
+    <dimen name="margenTituloIzqConf">25dp</dimen>
+    <dimen name="margenTituloDchConf">25dp</dimen>
+
+    <dimen name="margenFechaIzq">18dp</dimen>
+
+    <dimen name="margenBotonEditar">50dp</dimen>
+
+    <dimen name="tvGeneral">16dp</dimen>
+    <dimen name="tiGeneral">15dp</dimen>
+
+    <dimen name="tvfecha">10dp</dimen>
+
+    <dimen name="tvTituloConfirmarDimen">26dp</dimen>
+
+</resources>

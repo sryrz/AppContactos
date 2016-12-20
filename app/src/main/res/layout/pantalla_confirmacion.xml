@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvTituloConfirmar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="@dimen/tvTituloConfirmarDimen"
+        android:text="@string/tvTituloConfirmar"
+        android:layout_marginTop="@dimen/margenTituloSup"
+        android:layout_marginRight="@dimen/margenTituloDch"
+        android:layout_marginLeft="@dimen/margenTituloIzq"/>
+    <TextView
+        android:id="@+id/tvNombreFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tvGeneral"
+        android:layout_marginTop="@dimen/margenTituloSup"
+        android:layout_marginLeft="@dimen/margenTituloIzqConf"
+        android:layout_marginRight="@dimen/margenTituloDchConf"
+        android:text="nombreprueba"/>
+
+    <TextView
+        android:id="@+id/tvFechaFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tvGeneral"
+        android:layout_marginTop="@dimen/margenTituloSup"
+        android:layout_marginLeft="@dimen/margenTituloIzqConf"
+        android:layout_marginRight="@dimen/margenTituloDchConf"
+        android:text="fechaprueba"/>
+
+    <TextView
+        android:id="@+id/tvTelefonoFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tvGeneral"
+        android:layout_marginTop="@dimen/margenTituloSup"
+        android:layout_marginLeft="@dimen/margenTituloIzqConf"
+        android:layout_marginRight="@dimen/margenTituloDchConf"
+        android:text="telefonoprueba"/>
+
+    <TextView
+        android:id="@+id/tvEmailFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tvGeneral"
+        android:layout_marginTop="@dimen/margenTituloSup"
+        android:layout_marginLeft="@dimen/margenTituloIzqConf"
+        android:layout_marginRight="@dimen/margenTituloDchConf"
+        android:text="emailprueba"/>
+
+    <TextView
+        android:id="@+id/tvDescripcionFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tvGeneral"
+        android:layout_marginTop="@dimen/margenTituloSup"
+        android:layout_marginLeft="@dimen/margenTituloIzqConf"
+        android:layout_marginRight="@dimen/margenTituloDchConf"
+        android:text="descripcionprueba"/>
+
+    <Button
+        android:id="@+id/btnEditar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnEditar"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margenBotonEditar"/>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppContactos</string>
+    <string name="tvNombre">Nombre completo</string>
+    <string name="tvFechaNacimiento">Fecha de nacimiento</string>
+    <string name="tvTelefono">Telefono</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvDescripcion">Descripción del contacto</string>
+    <string name="hintFormNombre">Nombre y apellido</string>
+    <string name="hintFormTelefono">Teléfono</string>
+    <string name="hintFormEmail">Email</string>
+    <string name="hintFormDescripcion">Descripción</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="tvTituloConfirmar">Confirmar Datos</string>
+    <string name="btnEditar">Editar Datos</string>
+</resources>
